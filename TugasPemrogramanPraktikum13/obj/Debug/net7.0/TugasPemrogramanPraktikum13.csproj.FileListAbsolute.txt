@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\bin\Debug\net7.0\TugasPemrogramanPraktikum13.exe
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\bin\Debug\net7.0\TugasPemrogramanPraktikum13.deps.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\bin\Debug\net7.0\TugasPemrogramanPraktikum13.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\bin\Debug\net7.0\TugasPemrogramanPraktikum13.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\bin\Debug\net7.0\TugasPemrogramanPraktikum13.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\refint\TugasPemrogramanPraktikum13.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\TugasPemrogramanPraktikum13.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum13\TugasPemrogramanPraktikum13\TugasPemrogramanPraktikum13\obj\Debug\net7.0\ref\TugasPemrogramanPraktikum13.dll
